@@ -13,22 +13,8 @@ import './css/main.scss';
 
 import App from './app.vue';
 
-import aktivitat_durchfuhren from './articles/aktivitat_durchfuhren';
-import aktivitat_planen from './articles/aktivitat_planen';
-import auswertung from './articles/auswertung';
-import elternkontakt from './articles/elternkontakt';
-import hock from './articles/hock';
-import quartalsprogram from './articles/quartalsprogram';
-import sicherheit from './articles/sicherheit';
 import article_cards from './components/article-cards';
 
-Vue.component('aktivitat-durchfuhren', aktivitat_durchfuhren);
-Vue.component('aktivitat-planen', aktivitat_planen);
-Vue.component('auswertung', auswertung);
-Vue.component('elternkontakt', elternkontakt);
-Vue.component('hock', hock);
-Vue.component('quartalsprogram', quartalsprogram);
-Vue.component('sicherheit', sicherheit);
 Vue.component('article-cards', article_cards);
 
 new Vue({
