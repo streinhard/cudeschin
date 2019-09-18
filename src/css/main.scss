@@ -9,3 +9,38 @@
     --f7-navbar-link-color: white;
     --f7-navbar-text-color: white;
 }
+
+.content-card .card-header {
+    height: 35vw;
+    background-size: cover;
+    background-position: center;
+    color:white;
+}
+
+.card-one .card-header {
+    background-image: url(http://www.pfadi.swiss/sites/default/files/styles/slideshow/public/Grund_1.jpg);
+}
+
+.card-two .card-header {
+    background-image: url(http://www.pfadi.swiss/sites/default/files/styles/slideshow/public/Grund_2.jpg);
+}
+
+.card-three .card-header {
+    background-image: url(http://www.pfadi.swiss/sites/default/files/styles/slideshow/public/Grund_3.jpg);
+}
+
+.card-four .card-header {
+    background-image: url(http://www.pfadi.swiss/sites/default/files/styles/slideshow/public/Grund_4.jpg);
+}
+
+.card-five .card-header {
+    background-image: url(http://www.pfadi.swiss/sites/default/files/styles/slideshow/public/Grund_5.jpg);
+}
+
+.card-six .card-header {
+    background-image: url(http://www.pfadi.swiss/sites/default/files/styles/slideshow/public/Grund_6.jpg);
+}
+
+.card-seven .card-header {
+    background-image: url(http://www.pfadi.swiss/sites/default/files/styles/slideshow/public/Grund_7.jpg);
+}

@@ -1,0 +1,57 @@
+<template>
+    <article>
+        <h2>Auswertung und Rückmeldung</h2>
+
+        <h3>Aktivität auswerten</h3>
+        <p>Auswerten lohnt sich, da man so aus Erfolgen und Fehlern lernt! Erkenntnisse sollen in die nächste Planung einfliessen. Kurz nach der Aktivität auswerten ist sinnvoll, da die Erinnerung noch frisch ist.</p>
+
+        <h4>Teilnehmende (auch einmal die TN befragen)</h4>
+        <p>Welche Programmteile waren für die Teilnehmenden spannend?</p>
+        <p>Haben alle Teilnehmenden etwas erreicht oder gelernt?</p>
+        <p>Waren alle aktiv?</p>
+
+        <h4>Programm</h4>
+        <p>Wurden die Ziele erreicht?</p>
+        <p>Was war der Höhepunkt?</p>
+        <p>Was war der Tiefpunkt?</p>
+        <p>Wie wurde der Rote Faden umgesetzt?</p>
+
+        <h4>Organisation</h4>
+        <p>Was klappte gut?</p>
+        <p>Was klappte nicht gut?</p>
+        <p>Wurde der Zeitplan eingehalten?</p>
+        <p>War alles benötigte Material vorhanden und einsatzfähig?</p>
+
+        <h4>Leitungsteam</h4>
+        <p>Wann klappte die Zusammenarbeit im Team gut, wann weniger?</p>
+        <p>War die Aufgabenverteilung wie vereinbart?</p>
+        <p>War die Aufgabenverteilung sinnvoll?</p>
+
+        <h4>Sicherheit</h4>
+        <p>Haben sich die Sicherheitsmassnahmen bewährt?</p>
+        <p>Gab es heikle Situationen? Warum?</p>
+        <p>Wie können heikle Situationen nächstes Mal vermieden werden?</p>
+
+        <h3>Rückmeldung geben und annehmen</h3>
+        <h4>Rückmeldung geben</h4>
+        <ul>
+            <li>Ich-Botschaften formulieren</li>
+            <li>Situation oder Verhalten einer Person beschreiben (wie habe ich sie erlebt?)</li>
+            <li>Was hat die Situation / das Verhalten bei mir ausgelöst?</li>
+            <li>Lob & Kritik: positive und negative Punkte ansprechen, konkrete Beispiele</li>
+            <li>Hinweis auf mögliche oder tatsächliche Folgen geben</li>
+            <li>Alternativen aufzeigen</li>
+            <li>Fingerspitzengefühl, respektvoll</li>
+        </ul>
+
+        <h4>Rückmeldung annehmen</h4>
+        <ul>
+            <li>Offen für Rückmeldung sein, Chance sehen</li>
+            <li>Zuhören und ausreden lassen</li>
+            <li>Selbstkritisch sein, sich nicht rechtfertigen</li>
+            <li>Nachfragen, wenn etwas nicht verständlich oder unklar ist</li>
+            <li>Entscheiden: Was habe ich gelernt? Was will ich verändern? Was behalte ich bei?</li>
+            <li>Danke sagen</li>
+        </ul>
+    </article>
+</template>
