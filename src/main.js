@@ -9,6 +9,7 @@ Vue.config.productionTip = false;
 Framework7.use(Framework7Vue);
 
 import './css/fonts.css';
+import './css/main.scss';
 
 import App from './app.vue';
 
