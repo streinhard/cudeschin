@@ -1,7 +1,33 @@
 <template>
     <f7-page>
-        <f7-navbar title="Cudeschin"></f7-navbar>
+        <f7-navbar>
+            <f7-nav-title>Cudeschin</f7-nav-title>
+            <f7-nav-right>
+                <f7-button :icon-f7="viewIcon" style="color:white" @click="toggleDisplay" />
+            </f7-nav-right>
+        </f7-navbar>
 
-        <article-cards />
+        <article-cards v-if="!showList" />
+        <article-links v-if="showList" />
     </f7-page>
 </template>
+
+<script>
+export default {
+    data: function() {
+        return {
+            showList: false
+        };
+    },
+    computed: {
+        viewIcon: function() {
+            return this.showList ? 'library' : 'list'
+        }
+    },
+    methods: {
+        toggleDisplay: function(event) {
+            this.showList = !this.showList;
+        }
+    }
+};
+</script>

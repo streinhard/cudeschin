@@ -8,14 +8,16 @@ Vue.config.productionTip = false;
 
 Framework7.use(Framework7Vue);
 
-import './css/fonts.css';
+import 'framework7-icons';
 import './css/main.scss';
 
 import App from './app.vue';
 
 import article_cards from './components/article-cards';
+import article_links from './components/article-links';
 
 Vue.component('article-cards', article_cards);
+Vue.component('article-links', article_links);
 
 new Vue({
   render: h => h(App),
