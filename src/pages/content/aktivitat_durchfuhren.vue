@@ -2,7 +2,7 @@
     <f7-page>
         <f7-navbar title="Aktivität durchführen" back-link="Zurück"></f7-navbar>
 
-        <f7-block>
+        <f7-block class="article">
             <h3>Kurz vor der Aktivität</h3>
             <ul>
                 <li>Frühzeitiges Treffen des Leitungsteams</li>

@@ -15,6 +15,7 @@
     background-size: cover;
     background-position: center;
     color:white;
+    border-radius: var(--f7-card-border-radius);
 }
 
 .content-card .link {
@@ -23,6 +24,7 @@
     justify-content: left;
     padding: 5px 15px;
     width: 100%;
+    border-radius: 0 0 var(--f7-card-border-radius) var(--f7-card-border-radius);
 }
 
 .card-one .card-header {
@@ -51,4 +53,17 @@
 
 .card-seven .card-header {
     background-image: url(/images/scouting/Grund_7.jpg);
+}
+
+
+.article {
+
+    h3 {
+        color: #00a0af;
+    }
+
+    p {
+        margin: 0;
+    }
+
 }

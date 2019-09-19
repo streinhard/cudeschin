@@ -2,7 +2,7 @@
     <f7-page>
         <f7-navbar title="Elternkontakt" back-link="Zurück"></f7-navbar>
 
-        <f7-block>
+        <f7-block class="article">
             <h3>Jeder Elternkontakt hinterlässt einen Eindruck von der Pfadi!</h3>
 
             <h4>Warum Eltern für die Pfadi wichtig sind</h4>

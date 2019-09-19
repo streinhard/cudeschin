@@ -1,7 +1,8 @@
 <template>
     <f7-page>
         <f7-navbar title="Höck" back-link="Zurück"></f7-navbar>
-        <f7-block>
+
+        <f7-block class="article">
             <h4>Vorbereitung</h4>
             <ul>
                 <li>Höckort (ruhig, genügend Platz, gut erreichbar)</li>

@@ -2,7 +2,7 @@
     <f7-page>
         <f7-navbar title="Aktivität planen" back-link="Zurück"></f7-navbar>
 
-        <f7-block>
+        <f7-block class="article">
             <p>Bereits bei der Quartalsplanung wurde die Aktivität grob geplant. Diese Unterlagen dienen als Grundlage für die Detailplanung.</p>
 
             <h4>Rahmenbedingungen klären</h4>

@@ -2,7 +2,7 @@
     <f7-page>
         <f7-navbar title="Auswertung und Rückmeldung" back-link="Zurück"></f7-navbar>
 
-        <f7-block>
+        <f7-block class="article">
             <h3>Aktivität auswerten</h3>
             <p>Auswerten lohnt sich, da man so aus Erfolgen und Fehlern lernt! Erkenntnisse sollen in die nächste Planung einfliessen. Kurz nach der Aktivität auswerten ist sinnvoll, da die Erinnerung noch frisch ist.</p>
 

@@ -1,7 +1,7 @@
 <template>
     <f7-page>
         <f7-navbar title="Quartalsprogamm (QP)" back-link="Zurück"></f7-navbar>
-        <f7-block>
+        <f7-block class="article">
             <p>Ein roter Faden fürs ganze Quartal</p>
 
             <h3>Rückblick</h3>

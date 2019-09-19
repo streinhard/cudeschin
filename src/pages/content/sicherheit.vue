@@ -2,7 +2,7 @@
     <f7-page>
         <f7-navbar title="Sicherheit" back-link="Zurück"></f7-navbar>
 
-        <f7-block>
+        <f7-block class="article">
             <p>Das Leitungsteam ist bei jeder Aktivität für die Sicherheit der Teilnehmenden verantwortlich. Zur Vorbereitung jeder Aktivität gehören auch sicherheitsrelevante Überlegungen. Haltet Sicherheitskonzepte schriftlich fest und macht die Konzepte allen zugänglich:</p>
 
             <h3>Sicherheitkonzept</h3>
