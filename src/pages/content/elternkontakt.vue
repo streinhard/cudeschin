@@ -41,17 +41,23 @@
             <h4>Fremdsprachige Eltern</h4>
             <p>Es gibt Flyer über die Pfadi in verschiedenen Sprachen.</p>
             <p>
-                Link: „Informationsflyer für Flüchtlingsfamilien“
-                <a
-                    href="https://www.google.com/url?q=https://www.scout.ch/de/verband/fuegitiv-1/hilfsmittel&amp;sa=D&amp;ust=1568848330270000"
-                >https://www.scout.ch/de/verband/fuegitiv-1/hilfsmittel</a>
+                <a class="link external" target="_blank"  href="https://www.scout.ch/de/verband/fuegitiv-1/hilfsmittel">
+                    Informationsflyer für Flüchtlingsfamilien
+                </a>
             </p>
             <p>
-                Link: „Flyer der Pfadi Luzern“
-                <a
-                    href="https://www.google.com/url?q=https://www.pfadiluzern.ch/intern/downloads/%23FlyerAGIntegration&amp;sa=D&amp;ust=1568848330270000"
-                >https://www.pfadiluzern.ch/intern/downloads/#FlyerAGIntegration</a>
+                <a class="link external" target="_blank" href="https://www.pfadiluzern.ch/intern/downloads/#FlyerAGIntegration">
+                    Flyer der Pfadi Luzern
+                </a>
             </p>
+
+            <h4>Weitere Informationen</h4>
+            <div class="verweise">
+                <a class="link external" href="https://www.scout.ch/de/verband/downloads/ausbildung/cudesch/leiten">
+                    <img src="/images/piktos/4_Leiten.png">
+                    Broschüre «Leiten – bewusst handeln»
+                </a>
+            </div>
         </f7-block>
     </f7-page>
 </template>

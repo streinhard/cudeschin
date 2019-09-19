@@ -54,6 +54,30 @@
 
             <h3>Sicherheitsrelevante Aktivitäten:</h3>
             <p>Jede Aktivität kann Gefahren bergen und erfordert deshalb Überlegungen und Massnahmen zur Sicherheit. Ein spezifisches Sicherheitskonzept muss erstellt werden, wenn eine Aktivität in einem der drei Sicherheitsbereiche Berg, Winter, Wasser stattfindet oder bei der Planung festgestellt wird, dass Aktivitäten erhöhte Anforderungen an die Sicherheit stellen. Dazu gehören Lager, Wanderungen, Biwak, Velo-/Inlinetouren, Seilaktivitäten, Pionierbauten, anspruchsvolle Spiel-, Sport- und Geländeaktivitäten, Winter- und Wasseraktivitäten.</p>
+
+            <h4>Weitere Informationen</h4>
+            <div class="verweise">
+                <a class="link external" href="https://www.scout.ch/de/verband/downloads/programm/lager/j-s/j-s-leitfaden-lagersport-trekking-grundlagen/view">
+                    <img src="/images/piktos/2_JundS.png">
+                    J+S-Broschüre «LS/T Grundlagen»
+                </a>
+                <a class="link external" href="https://www.scout.ch/de/verband/downloads/ausbildung/cudesch/sicherheit">
+                    <img src="/images/piktos/8_Sicherheit.png">
+                    Broschüre «Sicherheit – Verantwortung tragen»
+                </a>
+                <a class="link" href="#">
+                    <img src="/images/piktos/10_Trekking.png">
+                    J+S-Broschüren im cudesch<br/>
+                    «LS/T Berg»<br/>
+                    «LS/T Winter»<br/>
+                    «LS/T Wasser»<br/>
+                    (nicht online verfügbar)
+                </a>
+                <a class="link external" href="https://www.jugendundsport.ch/content/jus-internet/de/sportarten/lagersport-trekking-uebersicht/aus-und-weiterbildung/_jcr_content/contentPar/tabs_copy/items/dokumente/tabPar/downloadlist_copy/downloadItems/97_1494506483240.download/merkblatt_ls_t_3x3_unterwegs_sein_d.pdf">
+                    <img src="/images/piktos/Literaturhinweis.png">
+                    J+S- Merkblatt «3×3 – unterwegs sein»
+                </a>
+            </div>
         </f7-block>
     </f7-page>
 </template>

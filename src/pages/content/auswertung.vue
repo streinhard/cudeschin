@@ -54,6 +54,14 @@
                 <li>Entscheiden: Was habe ich gelernt? Was will ich verändern? Was behalte ich bei?</li>
                 <li>Danke sagen</li>
             </ul>
+
+            <h4>Weitere Informationen</h4>
+            <div class="verweise">
+                <a class="link external" href="https://www.scout.ch/de/verband/downloads/programm/lager/j-s/j-s-leitfaden-lagersport-trekking-grundlagen/view">
+                    <img src="/images/piktos/5_Programm.png">
+                    Broschüre «Programm – Pfadi leben»
+                </a>
+            </div>
         </f7-block>
     </f7-page>
 </template>

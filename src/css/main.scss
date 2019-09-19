@@ -67,3 +67,18 @@
     }
 
 }
+
+.verweise a.link {
+    width: 100%;
+    margin: 5px 0;
+    padding: 5px;
+    color: black;
+    border: 1px solid #dddddd;
+    border-radius: 5px;
+    justify-content: left;
+}
+
+.verweise a.link img {
+    width: 40px;
+    margin-right: 5px;
+}

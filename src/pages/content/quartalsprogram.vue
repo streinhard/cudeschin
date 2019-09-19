@@ -38,19 +38,23 @@
             <p>Daten der verschiedenen Aktivitäten</p>
             <p>Adressliste des Leitungsteams</p>
             <p>
-                Detailplanung der jeweiligen Aktivtäten
-                <a href="#cmnt1">[a]</a>
+                <a class="link" href="/aktivitat_planen">
+                    Detailplanung der jeweiligen Aktivtäten
+                </a>
             </p>
             <p>
-                Auswertung des QPs nach der letzten Aktivität
-                <a href="#cmnt2">[b]</a>
+                <a class="link" href="/auswertung">
+                    Auswertung des QPs nach der letzten Aktivität
+                </a>
             </p>
-            <p>
-                <a href="#cmnt_ref1">[a]</a>Link zu der Cudeschin-Karte „Aktivität planen & durchführen“
-            </p>
-            <p>
-                <a href="#cmnt_ref2">[b]</a>Link zu der Cudeschin-Karte „Auswertung & Rückmeldung“
-            </p>
+
+            <h4>Weitere Informationen</h4>
+            <div class="verweise">
+                <a class="link external" href="https://www.scout.ch/de/verband/downloads/ausbildung/cudesch/programm">
+                    <img src="/images/piktos/5_Programm.png">
+                    Broschüre «Programm – Pfadi Leben» <br/> (ab S. 22)
+                </a>
+            </div>
         </f7-block>
     </f7-page>
 </template>
