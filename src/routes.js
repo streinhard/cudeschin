@@ -1,13 +1,13 @@
 
-import HomePage from './pages/home.vue';
+import HomePage from './pages/home/home.vue';
 
-import aktivitat_durchfuhren from './pages/content/aktivitat_durchfuhren';
-import aktivitat_planen from './pages/content/aktivitat_planen';
-import auswertung from './pages/content/auswertung';
-import elternkontakt from './pages/content/elternkontakt';
-import hock from './pages/content/hock';
-import quartalsprogram from './pages/content/quartalsprogram';
-import sicherheit from './pages/content/sicherheit';
+import aktivitat_durchfuhren from './content/aktivitat_durchfuhren';
+import aktivitat_planen from './content/aktivitat_planen';
+import auswertung from './content/auswertung';
+import elternkontakt from './content/elternkontakt';
+import hock from './content/hock';
+import quartalsprogram from './content/quartalsprogram';
+import sicherheit from './content/sicherheit';
 
 export default [
     {
