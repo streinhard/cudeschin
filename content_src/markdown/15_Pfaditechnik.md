@@ -1,7 +1,7 @@
 Pfaditechnik
 ----
 
-###Pfaditechnik spannend und lehrreich vermitteln
+### Pfaditechnik spannend und lehrreich vermitteln
 
 **Tipp:** Pfaditechnik in jede Aktivität einbauen. Je häufiger sich die Teilnehmenden mit Pfaditechnik beschäftigen, desto grösser ist der Lernerfolg. Ins Motto eingekleidet macht Lernen mehr Spass!
 
@@ -15,7 +15,7 @@ Pfaditechnik
 - Outdoorküche
 - Unterwegs sein (Wandern, Velo, Biwakieren)
 
-###Die EAG-Methode (Erwerben > Anwenden > Gestalten)
+### Die EAG-Methode (Erwerben > Anwenden > Gestalten)
 
 **Erwerben – Methoden um Wissen zu erwerben**
 
