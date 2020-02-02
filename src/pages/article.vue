@@ -3,13 +3,13 @@
         <f7-navbar title="Aktivität planen" back-link="Zurück"></f7-navbar>
 
         <f7-block class="article">
-            <article v-html="article.html" />
+            <article v-html="content" />
         </f7-block>
     </f7-page>
 </template>
 
 <script>
-
+import marked from 'marked';
 import articles from 'src/assets/articles.json';
 
 export default {
@@ -17,8 +17,17 @@ export default {
     data: function() {
         let article = articles.find(a => a.slug === this.slug);
         return {
-            article,
+            article
         };
+    },
+    computed: {
+        content: function() {
+            let html = marked(this.article.content);
+            return html;
+        }
+    },
+    mounted: function() {
+        this.$$('article a').addClass('external');
     }
 };
 </script>

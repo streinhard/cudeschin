@@ -3,10 +3,8 @@
 import os
 import json
 import collections
-from fnmatch import fnmatch
-from slugify import slugify
-from markdown import markdown
-from bs4 import BeautifulSoup
+import fnmatch
+import slugify
 
 BASE_DIR = 'content_src/markdown'
 OUTPUT = 'src/assets/articles.json'
@@ -15,23 +13,19 @@ result = []
 
 def load():
     files = os.listdir(BASE_DIR)
-    articles = [f for f in files if fnmatch(f, '*.md')]
+    articles = [f for f in files if fnmatch.fnmatch(f, '*.md')]
     articles.sort()
 
     for article in articles:
         with open(os.path.join(BASE_DIR, article)) as f:
             content = f.read()
             title = content.splitlines()[0]
-            slug = slugify(title)
-            html = markdown(content)
-            soup = BeautifulSoup(html, 'html.parser')
-            text = soup.get_text()
+            slug = slugify.slugify(title)
 
             result.append({
                 "title": title,
                 "slug": slug,
-                "html": html,
-                "text": text,
+                "content": content,
             })
 
 def overview():
