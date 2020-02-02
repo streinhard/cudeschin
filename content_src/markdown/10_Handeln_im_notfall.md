@@ -13,7 +13,7 @@ Wer ist betroffen?
 
 **Denken:** Folgegefahren für Unfallopfer, Helfende und andere Personen?
 
-**Handeln**
+**Handeln:**
 
 Selbstschutz!
 
@@ -39,21 +39,18 @@ Wie viele? Anzahl der Personen, Art der Verletzungen
 
 Weiteres? z.B. Verletzter ist eingeklemmt, Benzin fliesst aus, Bahnübergang... (hilfreiche Infos für Rettungsdienste)
 
-**Wichtige Telefonnummern**
+### Wichtige Telefonnummern
 
-Notruf: 144
+| | |
+|---|---|
+| **Notruf** | 144 |
+| **Notruf Int** | 112 |
+| **Rega** | 1414 (aus dem Ausland: +41 333 333 333)|
+| **Polizei** | 117 |
+| **Feuerwehr** | 118 |
+| **Giftinfo, Notfallberatung** | 145 (ToxInfo Schweiz) |
+| **Pfadi-Helpline** | 0800 22 36 39 (aus dem Ausland: +41 58 058 88 99) |
 
-Notruf Int: 112
-
-Rega: 1414 (aus dem Ausland: +41 333 333 333)
-
-Polizei: 117
-
-Feuerwehr: 118
-
-Giftinfo, Notfallberatung: 145 (Toxikologisches Informationszentrum ToxInfo Schweiz)
-
-Pfadi-Helpline: 0800 22 36 39 (aus dem Ausland: +41 58 058 88 99)
 
 **Ereignisse, die eine Information an das kantonale Krisenteam erfordern:**
 

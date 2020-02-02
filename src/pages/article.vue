@@ -1,6 +1,6 @@
 <template>
     <f7-page>
-        <f7-navbar title="Aktivität planen" back-link="Zurück"></f7-navbar>
+        <f7-navbar :title="article.title" back-link="Zurück"></f7-navbar>
 
         <f7-block class="article">
             <article v-html="content" />
@@ -14,16 +14,12 @@ import articles from 'src/assets/articles.json';
 
 export default {
     props: ['slug'],
-    data: function() {
-        let article = articles.find(a => a.slug === this.slug);
-        return {
-            article
-        };
-    },
     computed: {
+        article: function() {
+            return articles.find(a => a.slug === this.slug) || articles[0];
+        },
         content: function() {
-            let html = marked(this.article.content);
-            return html;
+            return marked(this.article.content);
         }
     },
     mounted: function() {
