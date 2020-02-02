@@ -3,7 +3,7 @@
         <f7-card
             v-for="(article, index) in articles"
             :key="article.id"
-            :class="['content-card', 'card-' + index % 8]"
+            :class="['content-card', 'card-' + index]"
             @click.native="openCard">
             <f7-card-header class="no-padding" valign="bottom">
                 <f7-link :href="'/article/' + article.slug">
