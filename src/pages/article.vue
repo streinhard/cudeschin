@@ -11,14 +11,15 @@
 <script>
 import marked from 'marked';
 
+import md from '!raw-loader!../content/Aktivität_Planen.md';
+
 export default {
     data: function() {
         return {};
     },
     computed: {
         content: function() {
-            // TODO: Load markdown here ;)
-            return marked('# MD content');
+            return marked(md);
         }
     },
 };

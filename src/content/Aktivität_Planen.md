@@ -1,7 +1,7 @@
 Aktivität planen
 ----------------
 
-Bereits bei der Quartalsplanung wurde die Aktivität grob geplant. Diese Unterlagen dienen als Grundlage für die Detailplanung.
+Bereits bei der *Quartalsplanung* wurde die Aktivität grob geplant. Diese Unterlagen dienen als Grundlage für die Detailplanung.
 
 #### Rahmenbedingungen klären
 
