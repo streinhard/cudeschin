@@ -2,9 +2,7 @@
 
 import os
 import json
-import collections
 import fnmatch
-import slugify
 
 BASE_DIR = 'content_src/markdown'
 OUTPUT = 'src/assets/articles.json'
@@ -20,7 +18,7 @@ def load():
         with open(os.path.join(BASE_DIR, article)) as f:
             content = f.read()
             title = content.splitlines()[0]
-            slug = slugify.slugify(title)
+            slug = article[3:-3].lower()
 
             result.append({
                 "title": title,
@@ -34,7 +32,7 @@ def overview():
     print('###################')
     print()
     for a in result:
-        print('- %s' % a['title'])
+        print('- %s' % a['slug'])
     print()
 
 def export():

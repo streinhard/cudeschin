@@ -1,29 +1,27 @@
 # cudeschin
 
-## Project setup
+Digitalisierung der cudeschin Inhalte als PWA.
+
+
+### Dev Starterkit
+
+#### Abhängigkeiten installieren
 ```
+yarn global add @vue/cli
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+#### Markdown-Inhalte aus content_src importieren
 ```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
+./import_content.py
 ```
 
-### Run your tests
+#### Entwicklungsumgebung starten
 ```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
+yarn serve
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+#### Build für Upload auf produktive Hosting Umgebung
+```
+yarn build
+```
