@@ -27,7 +27,7 @@ export default {
         }
     },
     mounted: function() {
-        this.$$('article a').addClass('external');
+        this.$$('article a').addClass('external').prop('target', '_blank');
     }
 };
 </script>
