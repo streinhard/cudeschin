@@ -38,6 +38,6 @@ Darauf achten, dass sich keine Teilnehmenden als Aussenseiter fühlen
 ### Weitere Informationen
 | | |
 |---|---|
-| [![](images/piktos/9_Spiel_sport.png)][1] | [J+S-Broschüre «LS/T - Spiel und Sport»][1] |
+| [![](images/piktos/9_Spiel_Sport.png)][1] | [J+S-Broschüre «LS/T - Spiel und Sport»][1] |
 
 [1]: https://www.scout.ch/de/verband/downloads/ausbildung/cudesch/spiel-und-sport

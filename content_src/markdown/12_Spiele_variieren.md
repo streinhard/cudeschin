@@ -29,7 +29,7 @@ Durch Abwandlungen bekannter Spiele können einfach neue Spiele kreiert werden.
 ### Weitere Informationen
 | | |
 |---|---|
-| [![](images/piktos/9_Spiel_sport.png)][1] | [J+S-Broschüre «LS/T - Spiel und Sport»][1] |
+| [![](images/piktos/9_Spiel_Sport.png)][1] | [J+S-Broschüre «LS/T - Spiel und Sport»][1] |
 | [![](images/piktos/www.png)][2] | [Spielen statt warten: Ideen für Lückenfüller & Spiele][2] |
 
 [1]: https://www.scout.ch/de/verband/downloads/ausbildung/cudesch/spiel-und-sport
