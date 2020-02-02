@@ -18,7 +18,7 @@ Bei allen Arten von Fähnliaktivitäten ist eine Begleitung und Betreuung der Le
 - Sicherheitskonzept erstellen und mit den Leitpfadis besprechen [Karte "Sicherheit“ Link NOCH EINFÜGEN](https://cudeschin.infosky.ch)
 - Routen im Voraus mit den Leitpfadis rekognoszieren
 - Leitungsteam muss immer erreichbar sein
-- Sicherstellen, dass die Leitpfadis sich ihrer Verantwortung bewusst sind 
+- Sicherstellen, dass die Leitpfadis sich ihrer Verantwortung bewusst sind
 
 **Bei einer Übernachtung ist zusätzlich Folgendes zu beachten**
 
@@ -31,7 +31,8 @@ Bei allen Arten von Fähnliaktivitäten ist eine Begleitung und Betreuung der Le
 - Fähnliaktivität mit Übernachtung dauert nie länger als 24h!
 
 ### Weitere Informationen
- | | |
- ---|---|---
- ![Inhalte](Piktos/Pikto_6_Stufen.tif) | PBS Stufen-Broschüre «Die Pfadistufe - Allzeit bereit» LINK NOCH EINFÜGEN| [URL]()
+| | |
+|---|---|
+| [![](images/piktos/6_Stufen.PNG)][1] | [PBS Stufen-Broschüre «Die Pfadistufe - Allzeit bereit» FEHLT NOCH][1] |
 
+[1]: NOCH_KEIN_LINK_HIER

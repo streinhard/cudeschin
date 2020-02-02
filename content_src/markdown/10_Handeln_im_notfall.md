@@ -11,11 +11,11 @@ Wer ist beteiligt?
 
 Wer ist betroffen?
 
-**Denken:** Folgegefahren für Unfallopfer, Helfende und andere Personen? 
+**Denken:** Folgegefahren für Unfallopfer, Helfende und andere Personen?
 
 **Handeln**
 
-Selbstschutz! 
+Selbstschutz!
 
 Alarmieren
 
@@ -24,7 +24,7 @@ Unfallstelle sichern/ für Sicherheit sorgen (weitere Unfälle vermeiden)
 Nothilfe leisten
 
 **Wichtig:** Jemand aus dem Leitungsteam betreut die unbeteiligten Teilnehmenden abseits des Geschehens.
- 
+
 
 ### Meldeschema
 Wo? Ort des Unfalls
@@ -57,11 +57,11 @@ Pfadi-Helpline: 0800 22 36 39 (aus dem Ausland: +41 58 058 88 99)
 
 **Ereignisse, die eine Information an das kantonale Krisenteam erfordern:**
 
-- schwere Unfälle und Naturereignisse 
+- schwere Unfälle und Naturereignisse
 - strafbare Handlungen
 - sexuelle Übergriffe
-- Ereignisse, die in den Medien für negative Aufmerksamkeit sorgen können 
-- alle Fälle, bei welchen Polizei oder Rettungsorganisation involviert sind 
+- Ereignisse, die in den Medien für negative Aufmerksamkeit sorgen können
+- alle Fälle, bei welchen Polizei oder Rettungsorganisation involviert sind
 - alle weiteren Ereignisse, die durch die anwesenden Leiterinnen und Leiter nicht selber bewältigt werden können
 - Wenn du nicht sicher bist, was zu tun ist, dann kannst du auch deinen AL / Coach kontaktieren!
 
@@ -70,6 +70,8 @@ Pfadi-Helpline: 0800 22 36 39 (aus dem Ausland: +41 58 058 88 99)
 
 
 ### Weitere Informationen
- | | |
- ---|---|---
- ![Inhalte](Piktos/Pikto_8_Sicherheit.tif) | Broschüre «Sicherheit – Verantwortung tragen» | [URL](https://www.scout.ch/de/verband/downloads/ausbildung/cudesch/sicherheit)
+| | |
+|---|---|
+| [![](images/piktos//8_Sicherheit.png)][1] | [Broschüre «Sicherheit – Verantwortung tragen»][1] |
+
+[1]: https://www.scout.ch/de/verband/downloads/ausbildung/cudesch/sicherheit

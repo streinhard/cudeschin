@@ -37,7 +37,8 @@ Wichtig: Das Leitungsteam darf Anpassungen verlangen oder eine Aktivität verbie
 [Link zu: „Fähnliaktivitäten“ NOCH EINFÜGEN]()
 
 ### Weitere Informationen
- | | |
- ---|---|---
- ![Inhalte](Piktos/Pikto_6_Stufen.tif) | PBS Stufen-Broschüre «Die Pfadistufe - Allzeit bereit» ADRESSE NOCH EINFÜGEN| [URL]()
+| | |
+|---|---|
+| [![](images/piktos/6_Stufen.png)][1] | [PBS Stufen-Broschüre «Die Pfadistufe - Allzeit bereit» FEHLT NOCH][1] |
 
+[1]: LINK_NOCH_EINFÜGEN

@@ -9,7 +9,7 @@ Gruppen bilden
 
 **Teilnehmenden bestimmen**
 
-Darauf achten, dass sich keine Teilnehmenden als Aussenseiter fühlen 
+Darauf achten, dass sich keine Teilnehmenden als Aussenseiter fühlen
 
 ### Der Zufall bestimmt
 
@@ -26,7 +26,7 @@ Darauf achten, dass sich keine Teilnehmenden als Aussenseiter fühlen
 - Merkmale (z.B. Jackenfarbe) nennen, gleiche Merkmale zusammen
 - Nach einem Merkmal (Schuhgrösse, Hausnummer, Alter) einstehen, durchnummerieren, gleiche Nummern zusammen
 - Seile verknoten, alle fassen an einem Ende, verknotete Seile bilden eine Gruppe
-- Spiel mit Ausscheiden spielen (Fangis), die ersten 4 bilden eine Gruppe 
+- Spiel mit Ausscheiden spielen (Fangis), die ersten 4 bilden eine Gruppe
 - In Gruppe entsprechend dem Geburtsmonat einstehen, Januar, Februar und März bilden eine Gruppe
 
 **Spiele zur Mannschaftsbildung**
@@ -36,7 +36,8 @@ Darauf achten, dass sich keine Teilnehmenden als Aussenseiter fühlen
 - Bonbon ziehen, gleiche Farben/Geschmack in einer Gruppe
 
 ### Weitere Informationen
- | | |
- ---|---|---
- ![Inhalte](Piktos/Pikto_9_Spiel_sport.tif) | J+S-Broschüre «LS/T - Spiel und Sport» | [URL](https://www.scout.ch/de/verband/downloads/ausbildung/cudesch/spiel-und-sport)
+| | |
+|---|---|
+| [![](images/piktos/9_Spiel_sport.png)][1] | [J+S-Broschüre «LS/T - Spiel und Sport»][1] |
 
+[1]: https://www.scout.ch/de/verband/downloads/ausbildung/cudesch/spiel-und-sport
