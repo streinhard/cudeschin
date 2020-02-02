@@ -25,3 +25,10 @@ Gegebenenfalls muss das Programm der aktuellen Situation angepasst werden:
 *   Motiviertes Leitungsteam = motivierte Teilnehmende!
 *   Gegenseitige Unterstützung im Leitungsteam
 *   Klarer Abschluss (Abschiedsritual)
+
+### Weitere Informationen
+| | |
+|---|---|
+| [![](images/piktos/5_Programm.png)][1] | [Broschüre «Programm»][1] |
+
+[1]: https://www.scout.ch/de/verband/downloads/programm/lager/j-s/j-s-leitfaden-lagersport-trekking-grundlagen/view

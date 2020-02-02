@@ -47,3 +47,10 @@ Aufgaben
 *   Missverständnisse vermeiden und klären (z. B. Ergebnisse am Schluss zusammenfassen)
 
 Tipp: Höcks mit vielen Teilnehmenden oder mit kniffligen Themen sind anspruchsvoll zu leiten. Eine seriöse Vorbereitung hilft, dass die Höckziele erreicht werden.
+
+### Weitere Informationen
+| | |
+|---|---|
+| [![](images/piktos/4_Leiten.png)][1] | [Broschüre «Leiten – bewusst handeln»][1] |
+
+[1]: https://www.scout.ch/de/verband/downloads/ausbildung/cudesch/leiten

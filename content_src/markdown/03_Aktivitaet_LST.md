@@ -11,7 +11,7 @@ In einem J+S Lager gibt es J+S-Aktivitäten und Verbandsaktivitäten, die J+S-Ak
 ###Lagersport (LS)
 **Ziel:** altersgerechte, vielfältige und abwechslungsreiche Spiel- und Sportaktivitäten
 
-Dies bedeutet: 
+Dies bedeutet:
 
 - Freude an der vielfältigen Bewegung (Link Bewegungsgrundformen für Kinder)
 - Erlebnis in der Gruppe
@@ -25,7 +25,7 @@ Aktivitäten in den Bereichen:
 - Spiel (Spielturniere, Geländespiele, Spielfest, Freies Spiel, Kämpfen und Raufen, ...)
 
 ###Lageraktivität (LA)
-**Ziel:** möglichst praxisnahes und spielerisches Erlernen von Wissen und Fähigkeiten, die für Lagersport/Trekking notwendig sind 
+**Ziel:** möglichst praxisnahes und spielerisches Erlernen von Wissen und Fähigkeiten, die für Lagersport/Trekking notwendig sind
 
 Dies bedeutet:
 
@@ -52,8 +52,10 @@ Mögliche Aktivitäten:
 - ...
 
 ### Weitere Informationen
- | | |
- ---|---|---
- ![Inhalte](Piktos/Pikto_2_JundS.tif) | J+S-Broschüre «LS/T Grundlagen» (ab S. 7) | [URL](https://www.scout.ch/de/verband/downloads/programm/lager/j-s/j-s-leitfaden-lagersport-trekking-grundlagen/view)
- ![Inhalte](Piktos/Pikto_www.tif) | Bewegungsgrundformen für Kinder | [URL](https://www.jugendundsport.ch/de/sportarten/kindersport.html)
- 
+| | |
+|---|---|
+| [![](images/piktos/2_JundS.png)][1] | [J+S-Broschüre «LS/T Grundlagen» (ab S. 7)][1] |
+| [![](images/piktos/www.png)][2] | [Bewegungsgrundformen für Kinder][2] |
+
+[1]: https://www.scout.ch/de/verband/downloads/programm/lager/j-s/j-s-leitfaden-lagersport-trekking-grundlagen/view
+[2]: https://www.jugendundsport.ch/de/sportarten/kindersport.html

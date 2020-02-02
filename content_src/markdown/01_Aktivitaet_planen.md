@@ -68,3 +68,11 @@ Sie sind den Teilnehmenden drei Tage vor der Aktivität zugänglich und enthalte
 *   Mitbringen
 *   Kleidung
 *   Kontaktangaben für Fragen.
+
+### Weitere Informationen
+| | |
+|---|---|
+| [![](images/piktos/2_JundS.png)][1] | [J+S-Broschüre «LS/T Grundlagen» (ab S. 7)][1] |
+| [![](images/piktos/www.png)][1] | [Link «Bewegungsgrundformen für Kinder»][1] |
+
+[1]: https://www.scout.ch/de/verband/downloads/programm/lager/j-s/j-s-leitfaden-lagersport-trekking-grundlagen/view

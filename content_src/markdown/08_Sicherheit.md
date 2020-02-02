@@ -50,3 +50,15 @@ Und wenn doch etwas passiert? LINK zu HANDELN IM NOTFALL
 ### Sicherheitsrelevante Aktivitäten:
 
 Jede Aktivität kann Gefahren bergen und erfordert deshalb Überlegungen und Massnahmen zur Sicherheit. Ein spezifisches Sicherheitskonzept muss erstellt werden, wenn eine Aktivität in einem der drei Sicherheitsbereiche Berg, Winter, Wasser stattfindet oder bei der Planung festgestellt wird, dass Aktivitäten erhöhte Anforderungen an die Sicherheit stellen. Dazu gehören Lager, Wanderungen, Biwak, Velo-/Inlinetouren, Seilaktivitäten, Pionierbauten, anspruchsvolle Spiel-, Sport- und Geländeaktivitäten, Winter- und Wasseraktivitäten.
+
+### Weitere Informationen
+| | |
+|---|---|
+| [![](images/piktos/2_JundS.png)][1] | [J+S-Broschüre «LS/T Grundlagen»][1] |
+| [![](images/piktos/8_Sicherheit.png)][2] | [Broschüre «Sicherheit – Verantwortung tragen»][2] |
+| ![](images/piktos/10_Trekking.png) | J+S-Broschüren im cudesch <br/>«LS/T Berg»<br/>«LS/T Winter»<br/>«LS/T Wasser»<br/>(nicht als PDF verfügbar) |
+| [![](images/piktos/Literaturhinweis.png)][4] | [J+S- Merkblatt «3×3 – unterwegs sein»][4] |
+
+[1]: https://www.scout.ch/de/verband/downloads/programm/lager/j-s/j-s-leitfaden-lagersport-trekking-grundlagen/view
+[2]: https://www.scout.ch/de/verband/downloads/ausbildung/cudesch/sicherheit
+[4]: https://www.jugendundsport.ch/content/jus-internet/de/sportarten/lagersport-trekking-uebersicht/aus-und-weiterbildung/_jcr_content/contentPar/tabs_copy/items/dokumente/tabPar/downloadlist_copy/downloadItems/97_1494506483240.download/merkblatt_ls_t_3x3_unterwegs_sein_d.pdf

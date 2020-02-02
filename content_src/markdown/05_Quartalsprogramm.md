@@ -34,17 +34,17 @@ QP schriftlich festhalten und an alle Leitenden inkl. Abteilungs- und/oder Stufe
 ### Teilnehmerinformation
 
 Motivierendes Informationsschreiben frühzeitig an Eltern und Teilnehmende verschicken
-
 Einstieg in den Roten Faden
-
 Daten der verschiedenen Aktivitäten
-
 Adressliste des Leitungsteams
 
-Detailplanung der jeweiligen Aktivtäten[\[a\]](#cmnt1)
+Detailplanung der jeweiligen Aktivtäten
 
-Auswertung des QPs nach der letzten Aktivität[\[b\]](#cmnt2)
+Auswertung des QPs nach der letzten Aktivität
 
-[\[a\]](#cmnt_ref1)Link zu der Cudeschin-Karte „Aktivität planen & durchführen“
+### Weitere Informationen
+| | |
+|---|---|
+| [![](images/piktos/5_Programm.png)][1] | [Broschüre «Programm – Pfadi leben» (ab S. 22)][1] |
 
-[\[b\]](#cmnt_ref2)Link zu der Cudeschin-Karte „Auswertung & Rückmeldung“
+[1]: https://www.scout.ch/de/verband/downloads/ausbildung/cudesch/programm

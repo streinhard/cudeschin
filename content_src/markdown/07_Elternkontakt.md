@@ -35,6 +35,13 @@ Elternkontakt
 
 Es gibt Flyer über die Pfadi in verschiedenen Sprachen.
 
-Link: „Informationsflyer für Flüchtlingsfamilien“ [https://www.scout.ch/de/verband/fuegitiv-1/hilfsmittel](https://www.google.com/url?q=https://www.scout.ch/de/verband/fuegitiv-1/hilfsmittel&sa=D&ust=1568848330270000)
+[Link: „Informationsflyer für Flüchtlingsfamilien“](https://www.scout.ch/de/verband/fuegitiv-1/hilfsmittel)
 
-Link: „Flyer der Pfadi Luzern“ [https://www.pfadiluzern.ch/intern/downloads/#FlyerAGIntegration](https://www.google.com/url?q=https://www.pfadiluzern.ch/intern/downloads/%23FlyerAGIntegration&sa=D&ust=1568848330270000)
+[Link: „Flyer der Pfadi Luzern“](https://www.pfadiluzern.ch/intern/downloads/#FlyerAGIntegration)
+
+### Weitere Informationen
+| | |
+|---|---|
+| [![](images/piktos/4_Leiten.png)][1] | [Broschüre «Leiten – bewusst handeln»][1] |
+
+[1]: https://www.scout.ch/de/verband/downloads/ausbildung/cudesch/leiten

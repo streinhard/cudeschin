@@ -69,3 +69,10 @@ Wie können heikle Situationen nächstes Mal vermieden werden?
 *   Nachfragen, wenn etwas nicht verständlich oder unklar ist
 *   Entscheiden: Was habe ich gelernt? Was will ich verändern? Was behalte ich bei?
 *   Danke sagen
+
+### Weitere Informationen
+| | |
+|---|---|
+| [![](images/piktos/5_Programm.png)][1] | [Broschüre «Programm – Pfadi leben»][1] |
+
+[1]: https://www.scout.ch/de/verband/downloads/programm/lager/j-s/j-s-leitfaden-lagersport-trekking-grundlagen/view
