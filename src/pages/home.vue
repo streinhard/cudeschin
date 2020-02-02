@@ -7,11 +7,22 @@
             <f7-nav-title>Cudeschin</f7-nav-title>
             <f7-nav-right>
                 <f7-button :icon-f7="viewIcon" style="color:white" @click="toggleDisplay" />
+                <f7-link class="searchbar-enable" data-searchbar=".article-search" icon-f7="search" />
             </f7-nav-right>
+            <f7-searchbar
+                expandable
+                class="article-search"
+                @searchbar:enable="searchbarEnabled"
+                search-container=".article-list"
+                search-in=".source-text"
+            ></f7-searchbar>
         </f7-navbar>
 
-        <article-cards v-if="!showList" :articles="articles" />
-        <article-links v-if="showList" :articles="articles" />
+        <article-cards v-show="!listActive" :articles="articles" />
+        <article-list v-show="listActive" :articles="articles" />
+        <f7-list class="searchbar-not-found">
+            <f7-list-item title="Leider nichts gefunden"></f7-list-item>
+        </f7-list>
     </f7-page>
 </template>
 
@@ -21,18 +32,21 @@ import articles from 'src/assets/articles.json';
 export default {
     data: function() {
         return {
-            showList: true,
+            listActive: true,
             articles
         };
     },
     computed: {
         viewIcon: function() {
-            return this.showList ? 'list_bullet_below_rectangle' : 'list_bullet';
+            return this.listActive ? 'list_bullet_below_rectangle' : 'list_bullet';
         }
     },
     methods: {
         toggleDisplay: function(event) {
-            this.showList = !this.showList;
+            this.listActive = !this.listActive;
+        },
+        searchbarEnabled: function(event) {
+            this.listActive = true;
         }
     }
 };
