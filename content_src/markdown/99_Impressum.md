@@ -4,7 +4,7 @@ Publikation:	cudeschin
 
 Herausgeberin:  Pfadibewegung Schweiz (PBS)
 
-Projektleitung: 	Adrian Tresch / Dent 
+Projektleitung: 	Adrian Tresch / Dent
 	Susanne Weber / Ilaga
 
 Konzept: 	Daniel Rüttimann / Tschiggo
@@ -15,9 +15,9 @@ Mitarbeitende: 	Fabia Bianchi / Yenga, Susanna Bingisser / Pro, Susanne Weber / 
 	David Kieffer / Garfield
 	Anne-Françoise Vuilleumier / Paon
 
-Illustration	Sandra Gujer-Brückner / Milou, illuhouse.ch 
+Illustration	Sandra Gujer-Brückner / Milou, illuhouse.ch
 
-Layout	Zoé Bobst / Ciara; Überarbeitung 2014: 
+Layout	Zoé Bobst / Ciara; Überarbeitung 2014:
 	Roman Heggli / Fräsmi
 
 Druck	Cavelti AG, Gossau

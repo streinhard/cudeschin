@@ -23,7 +23,7 @@ Faires Lager
 
 - Umsetzungsideen: Waldaufräumaktion, Urban Gardening-Projekt mit der Gemeinde, Kleidertausch mit anderen Pfadis
 
-Einen nachhaltigen Lebensstil zu leben ist herausfordernd. Wir suchen positive Lösungsansätze und motivieren uns gegenseitig. Mit Herausforderungen sportlich und kreativ umzugehen ist eine Stärke von uns als Pfadis. 
+Einen nachhaltigen Lebensstil zu leben ist herausfordernd. Wir suchen positive Lösungsansätze und motivieren uns gegenseitig. Mit Herausforderungen sportlich und kreativ umzugehen ist eine Stärke von uns als Pfadis.
 
 **Warum ein nachhaltiger Konsum für uns als Pfadis wichtig ist:**
 

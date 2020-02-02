@@ -9,9 +9,6 @@
 </template>
 
 <script>
-import marked from 'marked';
-
-import md from '!raw-loader!../content/Aktivität_Planen.md';
 
 export default {
     data: function() {
@@ -19,7 +16,7 @@ export default {
     },
     computed: {
         content: function() {
-            return marked(md);
+            return '<h2>Title</h2>';
         }
     },
 };

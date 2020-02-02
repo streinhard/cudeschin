@@ -1,3 +1,5 @@
+var path = require('path');
+
 module.exports = {
   lintOnSave: false,
   chainWebpack: config => {
@@ -8,5 +10,12 @@ module.exports = {
             .loader('raw-loader')
             .end()
 
+  },
+  configureWebpack: {
+    resolve: {
+      alias: {
+        src: path.resolve(__dirname, 'src')
+      }
+    },
   }
 };
