@@ -4,18 +4,18 @@ import os
 import json
 import fnmatch
 
-BASE_DIR = 'content_src/markdown'
+SOURCE_DIR = 'content_src'
 OUTPUT = 'src/assets/articles.json'
 
 result = []
 
 def load():
-    files = os.listdir(BASE_DIR)
+    files = os.listdir(SOURCE_DIR)
     articles = [f for f in files if fnmatch.fnmatch(f, '*.md')]
     articles.sort()
 
     for article in articles:
-        with open(os.path.join(BASE_DIR, article)) as f:
+        with open(os.path.join(SOURCE_DIR, article)) as f:
             content = f.read()
             title = content.splitlines()[0]
             slug = article[3:-3].lower()
