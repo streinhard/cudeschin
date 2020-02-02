@@ -9,7 +9,7 @@ export default [
         component: HomePage,
     },
     {
-        path: '/article',
+        path: '/article/:slug',
         component: ArticlePage
     },
 ]

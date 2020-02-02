@@ -10,8 +10,8 @@
             </f7-nav-right>
         </f7-navbar>
 
-        <article-cards v-if="!showList" />
-        <article-links v-if="showList" />
+        <article-cards v-if="!showList" :articles="articles" />
+        <article-links v-if="showList" :articles="articles" />
     </f7-page>
 </template>
 
@@ -21,7 +21,8 @@ import articles from 'src/assets/articles.json';
 export default {
     data: function() {
         return {
-            showList: true
+            showList: true,
+            articles
         };
     },
     computed: {
