@@ -1,0 +1,5 @@
+beautifulsoup4==4.8.2
+Markdown==3.1.1
+python-slugify==4.0.0
+soupsieve==1.9.5
+text-unidecode==1.3

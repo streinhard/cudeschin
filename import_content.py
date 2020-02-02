@@ -4,6 +4,7 @@ import os
 import json
 import collections
 from fnmatch import fnmatch
+from slugify import slugify
 from markdown import markdown
 from bs4 import BeautifulSoup
 
@@ -21,12 +22,14 @@ def load():
         with open(os.path.join(BASE_DIR, article)) as f:
             content = f.read()
             title = content.splitlines()[0]
+            slug = slugify(title)
             html = markdown(content)
             soup = BeautifulSoup(html, 'html.parser')
             text = soup.get_text()
 
             result.append({
                 "title": title,
+                "slug": slug,
                 "html": html,
                 "text": text,
             })
@@ -42,7 +45,7 @@ def overview():
 
 def export():
     with open(OUTPUT, 'w') as output:
-        json.dump(result, output, indent=4)
+        json.dump(result, output, indent=4, ensure_ascii=False)
 
 
 if __name__ == '__main__':
