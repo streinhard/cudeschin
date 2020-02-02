@@ -27,7 +27,7 @@ export default {
     },
     computed: {
         viewIcon: function() {
-            return this.showList ? 'library' : 'list';
+            return this.showList ? 'list_bullet_below_rectangle' : 'list_bullet';
         }
     },
     methods: {
