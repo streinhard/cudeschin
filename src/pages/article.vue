@@ -7,14 +7,13 @@
             </f7-nav-right>
         </f7-navbar>
         <f7-block class="article">
-            <article v-html="content" />
+            <article v-html="article.html" />
         </f7-block>
     </f7-page>
 </template>
 
 <script>
-import marked from 'marked';
-import articles from 'src/assets/articles.json';
+import articles from 'src/store';
 
 export default {
     props: ['slug'],
@@ -23,11 +22,8 @@ export default {
     },
     computed: {
         article: function() {
-            return articles.find(a => a.slug === this.slug) || articles[0];
+            return articles.find(this.slug);
         },
-        content: function() {
-            return marked(this.article.content);
-        }
     },
     methods: {
         share: async function(event) {

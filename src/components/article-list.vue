@@ -7,7 +7,7 @@
             :link="'/article/' + article.slug"
             :data-text="article.content">
             <div slot="after-title" class="source-text">
-                {{ article.content}}
+                {{ article.text }}
             </div>
         </f7-list-item>
     </f7-list>

@@ -18,8 +18,8 @@
             ></f7-searchbar>
         </f7-navbar>
 
-        <article-cards v-show="!listActive" :articles="articles" />
-        <article-list v-show="listActive" :articles="articles" />
+        <article-cards v-show="!listActive" :articles="articles.all" />
+        <article-list v-show="listActive" :articles="articles.all" />
         <f7-list class="searchbar-not-found">
             <f7-list-item title="Leider nichts gefunden"></f7-list-item>
         </f7-list>
@@ -27,7 +27,7 @@
 </template>
 
 <script>
-import articles from 'src/assets/articles.json';
+import articles from 'src/store';
 
 export default {
     data: function() {
