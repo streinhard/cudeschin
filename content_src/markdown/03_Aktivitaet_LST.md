@@ -3,12 +3,12 @@ Aktivitäten im Lagersport/Trekking (J+S)
 
 In einem J+S Lager gibt es J+S-Aktivitäten und Verbandsaktivitäten, die J+S-Aktivitäten unterteilen sich in Lagersport (LS) und Lageraktivitäten (LA).
 
-###Rahmenbedingungen für J+S-Aktivitäten
+### Rahmenbedingungen für J+S-Aktivitäten
 - pro Lagertag mindestens vier Stunden, maximal zwei Stunden davon als Lageraktivität
 - verteilt auf mindestens zwei Tageszeiten (Morgen, Mittag, Abend)
 - Dauer mindestens 30 Minuten pro Aktivität (Block)
 
-###Lagersport (LS)
+### Lagersport (LS)
 **Ziel:** altersgerechte, vielfältige und abwechslungsreiche Spiel- und Sportaktivitäten
 
 Dies bedeutet:
@@ -24,7 +24,7 @@ Aktivitäten in den Bereichen:
 - Sport (Ballspiele, Trendsportarten, andere Sportarten wie Tanzen, Orientierungslauf, ...)
 - Spiel (Spielturniere, Geländespiele, Spielfest, Freies Spiel, Kämpfen und Raufen, ...)
 
-###Lageraktivität (LA)
+### Lageraktivität (LA)
 **Ziel:** möglichst praxisnahes und spielerisches Erlernen von Wissen und Fähigkeiten, die für Lagersport/Trekking notwendig sind
 
 Dies bedeutet:
@@ -40,7 +40,7 @@ Aktivitäten in den Bereichen:
 - Lagerplatz/Lagerhaus/Umgebung (Einrichten, Abbau, Erstellen von Spielplatzeinrichtungen und Sportgeräten)
 - Prävention und Integration (Aktivitäten, welche der Prävention und der Integration dienen und die Kompetenzen der Teilnehmenden in diesem Bereich fördern)
 
-###Verbandsaktivität
+### Verbandsaktivität
 Mögliche Aktivitäten:
 
 - An- und Abreise
