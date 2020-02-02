@@ -8,14 +8,14 @@ Fähnliaktivitäten erlauben den Pfadis, Momente in kleineren Gruppen zu teilen,
 - anspruchsvolle Fähnliaktivität wie ein Fähnliausflug oder eine Fähnliübernachtung
 - Fähnlimoment in einer grösseren Aktivität oder spontan
 
-Bei allen Arten von Fähnliaktivitäten ist eine Begleitung und Betreuung der Leitpfadis notwendig. [Betreuung Leitfpfadis (LINK NOCH ANPASSEN)](https://www.scout.ch/de/verband/downloads/ausbildung/cudesch/spiel-und-sport)
+Bei allen Arten von Fähnliaktivitäten ist eine Begleitung und [Betreuung der Leitpfadis](/article/betreuung_leitpfadis) notwendig.
 
 **Für anspruchsvolle Fähnliaktivitäten gilt Folgendes zu beachten**
 
 - Route/Aktivität ist einfach, ungefährlich und an den Fähigkeiten der Teilnehmenden und der Leitpfadis ausgerichtet
 - Planung gemeinsam mit den Leitpfadis
 - Regeln mit den Leitpfadis besprechen
-- Sicherheitskonzept erstellen und mit den Leitpfadis besprechen [Karte "Sicherheit“ Link NOCH EINFÜGEN](https://cudeschin.infosky.ch)
+- [Sicherheitskonzept erstellen](/article/sicherheit) und mit den Leitpfadis besprechen.
 - Routen im Voraus mit den Leitpfadis rekognoszieren
 - Leitungsteam muss immer erreichbar sein
 - Sicherstellen, dass die Leitpfadis sich ihrer Verantwortung bewusst sind

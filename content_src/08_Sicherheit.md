@@ -28,7 +28,7 @@ Was wird unternommen, um Gefahren und Risiken zu minimieren oder auszuschliessen
 
 #### Vorbereitung auf Notfallsituationen
 
-Und wenn doch etwas passiert? LINK zu HANDELN IM NOTFALL
+[Und wenn doch etwas passiert?](/article/handeln_im_notfall)
 
 *   Ablauf und Verantwortlichkeiten im Notfall
 

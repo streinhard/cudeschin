@@ -18,7 +18,12 @@ import articles from 'src/store';
 export default {
     props: ['slug'],
     mounted: function() {
-        this.$$('article a').addClass('external').prop('target', '_blank');
+        this.$$('article a').each((index, link) => {
+            console.log(link.href);
+            if (!link.href.includes('/article/')) {
+                this.$$(link).addClass('external').prop('target', '_blank');
+            }
+        });
     },
     computed: {
         article: function() {
