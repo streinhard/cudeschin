@@ -44,3 +44,7 @@ export default {
     },
 };
 </script>
+
+<style scope>
+    .article h2 { display: none; }
+</style>
