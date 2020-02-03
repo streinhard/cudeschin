@@ -8,7 +8,7 @@ Vue.config.productionTip = false;
 
 Framework7.use(Framework7Vue);
 
-import 'framework7-icons';
+import './css/icons/material-icons.css';
 import './css/main.scss';
 
 import App from './app.vue';

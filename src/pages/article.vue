@@ -3,7 +3,7 @@
         <f7-navbar back-link="Zurück">
             <f7-nav-title>{{ article.title }}</f7-nav-title>
             <f7-nav-right>
-                <f7-button icon-f7="paperplane" style="color:white" @click="share" />
+                <f7-button icon-material="share" style="color:white" @click="share" />
             </f7-nav-right>
         </f7-navbar>
         <f7-block class="article">

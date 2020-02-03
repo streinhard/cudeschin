@@ -6,8 +6,8 @@
             </f7-nav-left>
             <f7-nav-title>Cudeschin</f7-nav-title>
             <f7-nav-right>
-                <f7-button :icon-f7="viewIcon" style="color:white" @click="toggleDisplay" />
-                <f7-link class="searchbar-enable" data-searchbar=".article-search" icon-f7="search" />
+                <f7-button :icon-material="viewIcon" style="color:white" @click="toggleDisplay" />
+                <f7-link class="searchbar-enable" data-searchbar=".article-search" icon-material="search" />
             </f7-nav-right>
             <f7-searchbar
                 expandable
@@ -38,7 +38,7 @@ export default {
     },
     computed: {
         viewIcon: function() {
-            return this.listActive ? 'list_bullet_below_rectangle' : 'list_bullet';
+            return this.listActive ? 'view_stream' : 'view_headline';
         }
     },
     methods: {
