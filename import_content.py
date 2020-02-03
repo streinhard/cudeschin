@@ -19,10 +19,13 @@ def load():
             content = f.read()
             title = content.splitlines()[0]
             slug = article[3:-3].lower()
+            img_name = article.replace('.md', '.jpg')
+            img = os.path.join('images', 'titles', img_name)
 
             result.append({
                 "title": title,
                 "slug": slug,
+                "img": img,
                 "content": content,
             })
 
