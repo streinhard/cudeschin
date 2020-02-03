@@ -38,7 +38,11 @@ export default {
                     url: window.location.href,
                 })
             } catch (e) {
-                this.$f7.dialog.alert('Dein Browser kann leider keine Links teilen', 'Schade...');
+                this.$f7.dialog.alert(
+                    'Leider bietet dein Browser keine Unterstüzung für dieses Feature. ' +
+                    'Du kannst aber auch einfach die URL kopieren und den Artikel so teilen.',
+                    'Ooops, ein Fehler!')
+                ;
             }
         }
     },
