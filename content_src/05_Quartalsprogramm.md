@@ -1,7 +1,7 @@
 Quartalsprogramm (QP)
 --------------------
 
-Ein roter Faden fürs ganze Quartal
+Ein roter Faden fürs ganze Quartal.
 
 ### Rückblick
 
