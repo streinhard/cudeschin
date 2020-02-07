@@ -11,5 +11,5 @@ export default [
     {
         path: '/article/:slug',
         component: ArticlePage
-    },
+    }
 ]

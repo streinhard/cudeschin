@@ -6,7 +6,8 @@
             </f7-nav-left>
             <f7-nav-title>Cudeschin</f7-nav-title>
             <f7-nav-right>
-                <f7-button :icon-material="viewIcon" style="color:white" @click="toggleDisplay" />
+                <f7-link href="mailto:andreas.moerker@pbs.ch?subject=Feedback cudeschin" class="external" icon-material="feedback" />
+                <f7-link :icon-material="viewIcon" @click="toggleDisplay" />
                 <f7-link class="searchbar-enable" data-searchbar=".article-search" icon-material="search" />
             </f7-nav-right>
             <f7-searchbar
