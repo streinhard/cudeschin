@@ -33,6 +33,6 @@ Bei allen Arten von Fähnliaktivitäten ist eine Begleitung und [Betreuung der L
 ### Weitere Informationen
 | | |
 |---|---|
-| [![](images/piktos/6_Stufen.png)][1] | [PBS Stufen-Broschüre «Die Pfadistufe - Allzeit bereit» FEHLT NOCH][1] |
+| [![](images/piktos/6_Stufen.png)][1] | [PBS Stufen-Broschüre «Die Pfadistufe - Allzeit bereit»][1] |
 
-[1]: NOCH_KEIN_LINK_HIER
+[1]: https://issuu.com/pbs-msds-mss/docs/cudesch_pfadistufenbroschuere_20160
