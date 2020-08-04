@@ -33,14 +33,14 @@ QP schriftlich festhalten und an alle Leitenden inkl. Abteilungs- und/oder Stufe
 
 ### Teilnehmerinformation
 
-Motivierendes Informationsschreiben frühzeitig an Eltern und Teilnehmende verschicken
-Einstieg in den Roten Faden
-Daten der verschiedenen Aktivitäten
-Adressliste des Leitungsteams
+* Motivierendes Informationsschreiben frühzeitig an Eltern und Teilnehmende verschicken
+* Einstieg in den Roten Faden
+* Daten der verschiedenen Aktivitäten
+* Adressliste des Leitungsteams
 
-Detailplanung der jeweiligen Aktivtäten
+[👉 Detailplanung der jeweiligen Aktivtäten](/article/aktivitaet_planen)
 
-Auswertung des QPs nach der letzten Aktivität
+[👉 Auswertung des QPs nach der letzten Aktivität](/article/auswertung)
 
 ### Weitere Informationen
 | | |
