@@ -3,30 +3,29 @@
 
 ### Notfall – was tun
 
-**Schauen:** Ruhe bewahren & Überblick beschaffen
+**🔴 Schauen:**
 
-Was ist geschehen?
+* Ruhe bewahren & Überblick beschaffen
+* Was ist geschehen?
+* Wer ist beteiligt?
+* Wer ist betroffen?
 
-Wer ist beteiligt?
+**🟠 Denken:**
 
-Wer ist betroffen?
+* Folgegefahren für Unfallopfer, Helfende und andere Personen?
 
-**Denken:** Folgegefahren für Unfallopfer, Helfende und andere Personen?
+**🟢 Handeln:**
 
-**Handeln:**
-
-Selbstschutz!
-
-Alarmieren
-
-Unfallstelle sichern/ für Sicherheit sorgen (weitere Unfälle vermeiden)
-
-Nothilfe leisten
+* Selbstschutz!
+* Alarmieren
+* Unfallstelle sichern/ für Sicherheit sorgen (weitere Unfälle vermeiden)
+* Nothilfe leisten
 
 **Wichtig:** Jemand aus dem Leitungsteam betreut die unbeteiligten Teilnehmenden abseits des Geschehens.
 
 
 ### Meldeschema
+
 Wo? Ort des Unfalls
 
 Wer? Name und Telefonnummer
