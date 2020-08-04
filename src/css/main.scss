@@ -99,3 +99,26 @@
     width: 40px;
     margin-right: 5px;
 }
+
+
+table.spec {
+    border-spacing: 0px;
+    border-collapse: collapse;
+}
+
+table.spec tr td {
+    vertical-align: top;
+}
+
+table.spec tr th {
+    text-align: left;
+}
+
+table.spec td, .spec th {
+  border: 1px solid #d0d0d0;
+  padding: 5px;
+}
+
+td.points {
+    background-color: #95d6dc;
+}
