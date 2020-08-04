@@ -1,4 +1,4 @@
-Quartalsprogramm (QP)
+📆 Quartalsprogramm (QP)
 --------------------
 
 Ein roter Faden fürs ganze Quartal.
@@ -38,7 +38,7 @@ QP schriftlich festhalten und an alle Leitenden inkl. Abteilungs- und/oder Stufe
 * Daten der verschiedenen Aktivitäten
 * Adressliste des Leitungsteams
 
-[👉 Detailplanung der jeweiligen Aktivtäten](/article/aktivitaet_planen)
+[👉 Detailplanung der jeweiligen Aktivitäten](/article/aktivitaet_planen)
 
 [👉 Auswertung des QPs nach der letzten Aktivität](/article/auswertung)
 

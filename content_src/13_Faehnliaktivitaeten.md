@@ -1,4 +1,4 @@
-Fähnliaktivitäten
+🚩 Fähnliaktivitäten
 ----
 Fähnliaktivitäten erlauben den Pfadis, Momente in kleineren Gruppen zu teilen, einen Fähnligeist zu entwickeln, sowie Verantwortung zu übernehmen.
 

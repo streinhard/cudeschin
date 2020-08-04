@@ -1,4 +1,4 @@
-Pfaditechnik
+📕 Pfaditechnik
 ----
 
 ### Pfaditechnik spannend und lehrreich vermitteln

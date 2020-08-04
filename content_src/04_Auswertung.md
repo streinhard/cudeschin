@@ -1,4 +1,4 @@
-Auswertung und Rückmeldung
+✍️ Auswertung und Rückmeldung
 --------------------------
 
 ### Aktivität auswerten

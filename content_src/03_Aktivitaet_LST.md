@@ -1,4 +1,4 @@
-Aktivitäten im Lagersport/Trekking (J+S)
+⛺ Aktivitäten im Lagersport/Trekking (J+S)
 ----------------
 
 In einem J+S Lager gibt es J+S-Aktivitäten und Verbandsaktivitäten, die J+S-Aktivitäten unterteilen sich in Lagersport (LS) und Lageraktivitäten (LA).

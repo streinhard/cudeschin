@@ -1,4 +1,4 @@
-Gruppen bilden
+🧑‍🤝‍🧑 Gruppen bilden
 ----
 
 **Leitende bestimmen**

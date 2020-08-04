@@ -1,4 +1,4 @@
-Handeln im Notfall
+🚦 Handeln im Notfall
 ----
 
 ### Notfall – was tun

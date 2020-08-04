@@ -1,4 +1,4 @@
-Aktivität durchführen
+🚀 Aktivität durchführen
 ---------------------
 
 ### Kurz vor der Aktivität

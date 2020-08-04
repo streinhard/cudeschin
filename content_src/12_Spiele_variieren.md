@@ -1,4 +1,4 @@
-Spiele verändern
+🎲 Spiele verändern
 ----
 
 Durch Abwandlungen bekannter Spiele können einfach neue Spiele kreiert werden.
