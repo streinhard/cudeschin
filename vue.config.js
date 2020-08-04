@@ -13,7 +13,7 @@ module.exports = {
 
   pwa: {
     name: 'cudeschin',
-    themeColor: '#00A0AF',
-    msTileColor: '#00A0AF'
+    themeColor: '#00a0af',
+    msTileColor: '#00a0af'
   }
 };
