@@ -4,6 +4,7 @@ module.exports = {
   lintOnSave: false,
 
   outputDir: 'docs',
+  publicPath: '/cudeschin/',
 
   configureWebpack: {
     resolve: {
