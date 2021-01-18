@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cudeschin/precache-manifest.5a2fa164d95ddd1896520b65cc76aef0.js"
+  "/cudeschin/precache-manifest.dd1215ff9a5312cfb8703e5c61105d5b.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "cudeschin"});

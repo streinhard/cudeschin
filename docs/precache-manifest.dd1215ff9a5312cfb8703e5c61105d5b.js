@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "567427f64fe52440ac03",
+    "revision": "98da723978caa95fabdc",
     "url": "/cudeschin/css/app.7390c89f.css"
   },
   {
@@ -196,19 +196,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cudeschin/images/titles/99_Impressum.jpg"
   },
   {
-    "revision": "98dfe0a1124b3b1c5a8eac02318bb1a4",
+    "revision": "a6dde451afa0a67f9c414a7c2cca14e8",
     "url": "/cudeschin/index.html"
   },
   {
-    "revision": "567427f64fe52440ac03",
-    "url": "/cudeschin/js/app.67cf62f2.js"
+    "revision": "98da723978caa95fabdc",
+    "url": "/cudeschin/js/app.69f66bb1.js"
   },
   {
     "revision": "0058725be935192c23fe",
     "url": "/cudeschin/js/chunk-vendors.d17e30cd.js"
   },
   {
-    "revision": "bbd765dc7c77bb9a3aad44a7227a4c3d",
+    "revision": "bc9c921f70c1ed92fc7f53868c6f41f0",
     "url": "/cudeschin/manifest.json"
   },
   {

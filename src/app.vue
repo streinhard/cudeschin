@@ -15,10 +15,7 @@ export default {
                 id: "ch.pbs.cudeschin",
                 name: "Cudeschin",
                 theme: "md",
-                routes: routes,
-                view: {
-                    pushState: true
-                }
+                routes: routes
             }
         };
     }
