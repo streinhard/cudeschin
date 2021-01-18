@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "98da723978caa95fabdc",
+    "revision": "dfeb73c0eb42c76cf925",
     "url": "/cudeschin/css/app.7390c89f.css"
   },
   {
@@ -196,12 +196,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cudeschin/images/titles/99_Impressum.jpg"
   },
   {
-    "revision": "a6dde451afa0a67f9c414a7c2cca14e8",
+    "revision": "a44201ab1d259a95da72748456463c8f",
     "url": "/cudeschin/index.html"
   },
   {
-    "revision": "98da723978caa95fabdc",
-    "url": "/cudeschin/js/app.69f66bb1.js"
+    "revision": "dfeb73c0eb42c76cf925",
+    "url": "/cudeschin/js/app.d3bafa77.js"
   },
   {
     "revision": "0058725be935192c23fe",
