@@ -1,5 +1,5 @@
 👨‍👩‍👧‍👦 Elternkontakt
--------------
+----------------
 
 ### Jeder Elternkontakt hinterlässt einen Eindruck von der Pfadi!
 

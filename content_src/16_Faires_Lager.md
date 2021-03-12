@@ -1,5 +1,5 @@
 ♻️ Faires Lager
-----
+--------------
 
 **Einen nachhaltigen Konsum ins Programm einbinden**
 

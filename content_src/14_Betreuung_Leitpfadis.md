@@ -1,5 +1,5 @@
 🎓 Betreuung von Leitpfadis
-----
+---------------------------
 
 Die 13- bis 14-jährigen Leitpfadis müssen gut begleitet und betreut werden, damit sie sich mit ihrer Aufgabe wohl fühlen, die Verantwortung für ihr Fähnli gerne übernehmen und die Sicherheit der Aktivität gewährleistet ist.
 Die Betreuung muss an ihre Bedürfnisse und Erfahrungen angepasst sein

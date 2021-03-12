@@ -1,5 +1,5 @@
 🚦 Handeln im Notfall
-----
+---------------------
 
 ### Notfall – was tun
 

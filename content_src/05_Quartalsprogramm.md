@@ -1,5 +1,5 @@
 📆 Quartalsprogramm (QP)
---------------------
+------------------------
 
 Ein roter Faden fürs ganze Quartal.
 

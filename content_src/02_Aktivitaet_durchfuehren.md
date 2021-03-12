@@ -1,5 +1,5 @@
 🚀 Aktivität durchführen
----------------------
+------------------------
 
 ### Kurz vor der Aktivität
 

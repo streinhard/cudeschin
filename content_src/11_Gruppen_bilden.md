@@ -1,5 +1,5 @@
 🧑‍🤝‍🧑 Gruppen bilden
-----
+-----------------
 
 **Leitende bestimmen**
 

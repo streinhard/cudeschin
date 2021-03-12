@@ -1,5 +1,5 @@
 🦺 Sicherheit
-----------
+-------------
 
 Das Leitungsteam ist bei jeder Aktivität für die Sicherheit der Teilnehmenden verantwortlich. Zur Vorbereitung jeder Aktivität gehören auch sicherheitsrelevante Überlegungen. Haltet Sicherheitskonzepte schriftlich fest und macht die Konzepte allen zugänglich:
 
