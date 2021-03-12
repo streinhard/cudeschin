@@ -20,7 +20,7 @@ export default {
 </script>
 
 <style scoped>
-    .source-text {
-        display: none;
-    }
+.source-text {
+    display: none;
+}
 </style>

@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import routes from "./routes";
+import routes from "@/routes";
 
 export default {
     name: "app",

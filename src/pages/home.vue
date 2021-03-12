@@ -28,7 +28,7 @@
 </template>
 
 <script>
-import articles from 'src/store';
+import articles from '@/store';
 
 export default {
     data: function() {

@@ -1,6 +1,6 @@
 
-import HomePage from './pages/home.vue';
-import ArticlePage from './pages/article';
+import HomePage from '@/pages/home.vue';
+import ArticlePage from '@/pages/article';
 
 export default [
     {

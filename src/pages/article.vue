@@ -13,7 +13,7 @@
 </template>
 
 <script>
-import articles from 'src/store';
+import articles from '@/store';
 
 export default {
     props: ['slug'],
@@ -50,5 +50,5 @@ export default {
 </script>
 
 <style scope>
-    .article h2 { display: none; }
+.article h2 { display: none; }
 </style>

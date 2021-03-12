@@ -1,5 +1,5 @@
 
-import articlesSource from 'src/assets/articles.json';
+import articlesSource from '@/assets/articles.json';
 import marked from 'marked';
 
 class ArticleStore {
